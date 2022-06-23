@@ -114,11 +114,12 @@ html,body{
 /* Carouesl */
 
  .bbb_viewed {
-     padding-top: 51px;
-     padding-bottom: 60px;
+     /* padding-top: 51px;
+     padding-bottom: 60px; */
  }
  .gift_bbb_viewed{
-  top: 200px;
+  /* top: 200px; */
+  margin-top: -245px;
  }
 
  .bbb_viewed div{
@@ -293,6 +294,12 @@ html,body{
 /* gift-cards-section */
 .gift-card-section{
   padding: 120px 60px;
+}
+.gift-card-left{
+  /* padding-bottom: 400px; */
+}
+.gift-card-left div .desc{
+  padding-bottom: 350px;
 }
 .gift-card-outer-right{
   border: 20px solid gainsboro;
